@@ -1,0 +1,7 @@
+[general]
+name=Geometryless Addition
+description=Add geometryless features
+author=OPENGIS.ch
+icon=icon.svg
+version=1.0
+homepage=https://www.opengis.ch/
